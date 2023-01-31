@@ -38,3 +38,4 @@ include(
     "serialization_test",
     "templates_test",
 )
+include("learn")
